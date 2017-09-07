@@ -6,3 +6,7 @@ git rebase -i HEAD^(nr of commits to squash)
 example:
 git rebase -i HEAD^8
 ```
+
+
+
+;ndring
